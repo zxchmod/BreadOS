@@ -1,2 +1,4 @@
 # BreadOS
-BreadOS is a minimalist operating system designed for compact devices like headphone cases. Its goal is to be lightweight and accessible. Previous attempts had limited success, but BreadOS is now stable and open-source under the MIT license.
+BreadOS is a minimalist operating system designed specifically for compact devices, such as headphone cases. Its primary goal is to be lightweight, accessible, and easy to customize, making it ideal for small embedded systems with limited resources.
+
+Previous attempts to create such a system had limited success, often due to complexity or resource constraints.
