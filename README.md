@@ -12,17 +12,6 @@ Features:
   3. Sleep Mode - enters sleep mode
 - Works on x86 emulators (QEMU, Bochs)
 
-Build and Run:
-1. Clone the repository:
-   git clone https://github.com/yourusername/BreadOS.git
-   cd BreadOS
-
-2. Build:
-   make
-
-3. Run in QEMU:
-   qemu-system-i386 -fda breados.bin
-
 License:
 BreadOS is licensed under the MIT License.
 Copyright (c) 2025 NameSugar
