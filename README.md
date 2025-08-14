@@ -13,11 +13,8 @@ Features:
 - Works on x86 emulators (QEMU, Bochs)
 
 License:
-
 BreadOS is licensed under the MIT License.
-
 Copyright (c) 2025 NameSugar
 
 History:
-
 Earlier experimental versions had limited functionality. This version is stable and interactive.
